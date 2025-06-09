@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WaqarDev313/ReactPortfolio/static/css/main.ac00e763.css",
+    "main.js": "/WaqarDev313/ReactPortfolio/static/js/main.0e26e730.js",
+    "static/media/images (4).png": "/WaqarDev313/ReactPortfolio/static/media/images (4).7b0eafeebe16948c7a95.png",
+    "static/media/images (2).png": "/WaqarDev313/ReactPortfolio/static/media/images (2).2d77af127e46236a82f5.png",
+    "static/media/bannerImg.png": "/WaqarDev313/ReactPortfolio/static/media/bannerImg.0d65fbbe86a8e766821d.png",
+    "static/media/images.png": "/WaqarDev313/ReactPortfolio/static/media/images.578384970efaf41e4922.png",
+    "static/media/download.png": "/WaqarDev313/ReactPortfolio/static/media/download.ed8c04eeead96eadc5b8.png",
+    "static/media/contactImg.png": "/WaqarDev313/ReactPortfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/WaqarDev313/ReactPortfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/WaqarDev313/ReactPortfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/WaqarDev313/ReactPortfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/download__1_-removebg-preview.png": "/WaqarDev313/ReactPortfolio/static/media/download__1_-removebg-preview.968a35414264b77bbb15.png",
+    "index.html": "/WaqarDev313/ReactPortfolio/index.html",
+    "main.ac00e763.css.map": "/WaqarDev313/ReactPortfolio/static/css/main.ac00e763.css.map",
+    "main.0e26e730.js.map": "/WaqarDev313/ReactPortfolio/static/js/main.0e26e730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac00e763.css",
+    "static/js/main.0e26e730.js"
+  ]
+}
