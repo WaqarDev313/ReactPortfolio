@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WaqarDev313/ReactPortfolio/static/css/main.ac00e763.css",
-    "main.js": "/WaqarDev313/ReactPortfolio/static/js/main.0e26e730.js",
+    "main.css": "/WaqarDev313/ReactPortfolio/static/css/main.02d376fc.css",
+    "main.js": "/WaqarDev313/ReactPortfolio/static/js/main.e004fa08.js",
     "static/media/images (4).png": "/WaqarDev313/ReactPortfolio/static/media/images (4).7b0eafeebe16948c7a95.png",
     "static/media/images (2).png": "/WaqarDev313/ReactPortfolio/static/media/images (2).2d77af127e46236a82f5.png",
     "static/media/bannerImg.png": "/WaqarDev313/ReactPortfolio/static/media/bannerImg.0d65fbbe86a8e766821d.png",
@@ -13,11 +13,11 @@
     "static/media/projectTwo.jpg": "/WaqarDev313/ReactPortfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "static/media/download__1_-removebg-preview.png": "/WaqarDev313/ReactPortfolio/static/media/download__1_-removebg-preview.968a35414264b77bbb15.png",
     "index.html": "/WaqarDev313/ReactPortfolio/index.html",
-    "main.ac00e763.css.map": "/WaqarDev313/ReactPortfolio/static/css/main.ac00e763.css.map",
-    "main.0e26e730.js.map": "/WaqarDev313/ReactPortfolio/static/js/main.0e26e730.js.map"
+    "main.02d376fc.css.map": "/WaqarDev313/ReactPortfolio/static/css/main.02d376fc.css.map",
+    "main.e004fa08.js.map": "/WaqarDev313/ReactPortfolio/static/js/main.e004fa08.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac00e763.css",
-    "static/js/main.0e26e730.js"
+    "static/css/main.02d376fc.css",
+    "static/js/main.e004fa08.js"
   ]
 }
